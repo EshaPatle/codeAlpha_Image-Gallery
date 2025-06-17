@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Image Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Welcome to My Gallery</h1>
+
+  <div class="filters">
+    <button class="active" onclick="filterImages('all')">All</button>
+    <button onclick="filterImages('nature')">Nature</button>
+    <button onclick="filterImages('animals')">Animals</button>
+    <button onclick="filterImages('travel')">Travel</button>
+    <button onclick="filterImages('food')">Food</button>
+    <button onclick="filterImages('me')">Me</button>
+
+
+  </div>
+
+  <div class="gallery" id="gallery">
+    <div class="image-box nature"><img src="images/natureimg1.jpg" alt="Nature 1"></div>
+    <div class="image-box animals"><img src="images/animalimg1.jpg" alt="Animal 1"></div>
+    <div class="image-box travel"><img src="images/travelimg1.jpg" alt="Travel 1"></div>
+    <div class="image-box food"><img src="images/foodimg1.jpg" alt="Food 1"></div>
+    <div class="image-box me"><img src="images/meimg1.jpg" alt="Me 1"></div>
+    <div class="image-box nature"><img src="images/natureimg2.jpg" alt="Nature 2"></div>
+    <div class="image-box animals"><img src="images/animalimg2.jpg" alt="Animal 2"></div>
+    <div class="image-box travel"><img src="images/travelimg2.jpg" alt="Travel 2"></div>
+    <div class="image-box food"><img src="images/foodimg2.jpg" alt="Food 2"></div>
+    <div class="image-box me"><img src="images/meimg2.jpg" alt="Me 2"></div>
+    <div class="image-box nature"><img src="images/natureimg3.jpg" alt="Nature 3"></div>
+    <div class="image-box animals"><img src="images/animalimg3.jpg" alt="Animal 3"></div>
+    <div class="image-box travel"><img src="images/travelimg3.jpg" alt="Travel 3"></div>
+    <div class="image-box food"><img src="images/foodimg3.jpg" alt="Food 3"></div>
+    <div class="image-box me"><img src="images/meimg3.jpg" alt="Me 3"></div>
+    <div class="image-box nature"><img src="images/natureimg4.jpg" alt="Nature 4"></div>
+    <div class="image-box animals"><img src="images/animalimg4.jpg" alt="Animal 4"></div>
+    <div class="image-box travel"><img src="images/travelimg4.jpg" alt="Travel 4"></div>
+    <div class="image-box food"><img src="images/foodimg4.jpg" alt="Food 4"></div>
+    <div class="image-box me"><img src="images/meimg4.jpg" alt="Me 4"></div>
+
+  </div>
+
+
+  
+  <div class="lightbox" id="lightbox">
+    <img src="" alt="Full View" id="lightbox-img" />
+    <div class="lightbox-controls">
+      <button onclick="prevImage()">⏮ Prev</button>
+      <button onclick="nextImage()">Next ⏭</button>
+      <button onclick="closeLightbox()">❌ Close</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
