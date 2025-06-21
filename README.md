@@ -32,7 +32,7 @@ An elegant and responsive image gallery that includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Eshapatle/codeAlpha_image-gallery.git
+🔗git clone https://github.com/Eshapatle/codeAlpha_image-gallery.git
 
 # Open index.html in your browser
 
