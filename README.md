@@ -32,17 +32,7 @@ An elegant and responsive image gallery that includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Eshapatle/image-gallery.git
+git clone https://github.com/Eshapatle/codeAlpha_image-gallery.git
 
 # Open index.html in your browser
 
-
-
-👤 Author
-
-Esha Patle
-🎓 B.Tech CSE
-💼 Frontend Development Intern @ CodeAlpha
-
-🔗 GitHub
-🔗 LinkedIn (www.linkedin.com/in/esha-patle-10371330b)
