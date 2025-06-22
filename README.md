@@ -25,7 +25,9 @@ A responsive, visually appealing image gallery with:
 
 ## 🔗 Project Demo  
 🌍 **Live Site**: [https://eshapatle.github.io/CodeAlpha_Image-Gallery/]
+
 📂 **GitHub**: [https://github.com/EshaPatle/codeAlpha_Image-Gallery/edit/main/README.md]  
+
 🖇 **LinkedIn**: [https://www.linkedin.com/in/esha-patle-10371330b]
 
 ---
