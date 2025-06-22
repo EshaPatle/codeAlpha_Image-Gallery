@@ -1,38 +1,34 @@
-# 🖼️ Responsive Image Gallery
+# 🖼️ Interactive Image Gallery
 
-✅ **Internship Task 1** – Frontend Development  
+✅ **Internship Task** – Frontend Development  
 🏢 **Company**: CodeAlpha  
-📄 **Project Title**: Responsive Image Gallery with Lightbox & Filters
+📄 **Project Title**: Responsive & Interactive Image Gallery
 
 ---
 
 ## 🔹 Description  
-An elegant and responsive image gallery that includes:
-- ✅ Image category filters  
-- ✅ Lightbox popup view  
-- ✅ Responsive grid layout  
-- ✅ Smooth hover animations
+A responsive, visually appealing image gallery with:
+- ✅ Grid layout that adjusts to screen size  
+- ✅ Lightbox preview on click  
+- ✅ Filter functionality for categories  
+- ✅ Hover effects for enhanced interactivity  
+- ✅ Smooth transitions and animations
 
 ---
 
 ## 🛠 Technologies Used  
 - HTML5  
-- CSS3  
-- JavaScript
+- CSS3 (Flexbox, Grid, Transitions)  
+- JavaScript (DOM Manipulation, Events)
 
 ---
 
 ## 🔗 Project Demo  
-🌍 **Live Website**: [https://eshapatle.github.io/codeAlpha_Image-Gallery]  
-📂 **GitHub Repository**: [https://github.com/Eshapatle/codeAlpha_Image-Gallery]
+🌍 **Live Site**: [https://eshapatle.github.io/CodeAlpha_Image-Gallery/]
+📂 **GitHub**: [https://github.com/EshaPatle/codeAlpha_Image-Gallery/edit/main/README.md]  
+🖇 **LinkedIn**: [https://www.linkedin.com/in/esha-patle-10371330b]
 
 ---
 
-## 🚀 How to Run
 
-```bash
-# Clone the repository
-🔗git clone https://github.com/Eshapatle/codeAlpha_image-gallery.git
-
-# Open index.html in your browser
 
